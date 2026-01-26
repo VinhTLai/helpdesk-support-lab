@@ -1,9 +1,11 @@
 # Lab Setup
 
 ## Environment
-- Host OS: Windows / macOS
+- Host OS: Windows 11
 - Virtualization: VirtualBox
 - Guest OS: Windows 11
+<img width="1895" height="1205" alt="vm_environment_created" src="https://github.com/user-attachments/assets/7ba26000-acbb-47f4-a3b5-5d4758216089" />
+
 
 ## User Accounts
 - ITAdmin (Administrator)
