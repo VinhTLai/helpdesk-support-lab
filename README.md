@@ -5,7 +5,7 @@ This project simulates a real-world IT Help Desk environment where common user i
 
 ## Skills Demonstrated
 - Help Desk ticketing and documentation
-- Windows 10/11 troubleshooting
+- Windows 11 troubleshooting
 - User account management
 - Networking fundamentals
 - System performance analysis
@@ -18,6 +18,7 @@ This project simulates a real-world IT Help Desk environment where common user i
 - Task Manager
 - Device Manager
 - osTicket
+- XAMPP
 
 ## Lab Setup
 - 1 Windows VM (Help Desk Technician)
