@@ -26,11 +26,5 @@ User reported that the printer appeared offline and documents could not be print
 Printer was successfully re-added and returned to an online state. Printing functionality was restored.
 <img width="1024" height="768" alt="print_succeeds" src="https://github.com/user-attachments/assets/eb0cb6dc-9e75-47ee-895c-7db72ded25b1" />
 
-
-## Ticketing System
-- Platform: osTicket
-- Role: Help Desk Agent
-
 ## What I Learned
 This ticket improved my understanding of printer services and how restarting the Print Spooler can resolve common printer issues.
-
