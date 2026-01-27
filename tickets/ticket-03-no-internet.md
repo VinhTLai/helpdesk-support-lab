@@ -26,17 +26,12 @@ User reported loss of internet connectivity and inability to access websites.
 <img width="1024" height="768" alt="ping_success" src="https://github.com/user-attachments/assets/05f98a2a-757f-4102-a322-0afe6137fb80" />
 <img width="1024" height="768" alt="internet_works" src="https://github.com/user-attachments/assets/54d0b0f3-7c6a-4bea-ae64-6f929049bee9" />
 
-
 ## Tools Used
 - PowerShell
 - Network Settings
 
 ## Resolution
 Network connectivity was restored after re-enabling the network adapter and verifying proper IP configuration.
-
-## Ticketing System
-- Platform: osTicket
-- Role: Help Desk Agent
 
 ## What I Learned
 This ticket reinforced basic network troubleshooting techniques and the importance of verifying adapter and IP configuration.
