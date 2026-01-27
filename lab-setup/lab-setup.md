@@ -7,6 +7,8 @@
 - Support Ticketing System: osTicket
 - Web Server: XAMPP
 <img width="1895" height="1205" alt="vm_environment_created" src="https://github.com/user-attachments/assets/7ba26000-acbb-47f4-a3b5-5d4758216089" />
+<img width="1024" height="768" alt="phpmyadmin_database" src="https://github.com/user-attachments/assets/a50bdf5f-d40a-4dd6-acfa-f4a2d61529db" />
+<img width="1024" height="768" alt="osticket_admin_login" src="https://github.com/user-attachments/assets/d2556a93-7abe-440d-a743-9ef5157a318f" />
 
 
 ## User Accounts
