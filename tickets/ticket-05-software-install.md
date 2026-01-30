@@ -9,7 +9,6 @@ User requested installation of approved software required for work-related tasks
 ## Environment
 - OS: Windows 11
 - User Account: TestUser1
-- Ticket System: osTicket
 - Software Installed: 7-Zip
 
 ## Troubleshooting & Resolution Steps
