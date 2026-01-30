@@ -4,7 +4,7 @@
 User reported that the computer was running slowly and applications were taking a long time to open.
 
 ## Environment
-- Device: Windows 11
+- OS: Windows 11
 - User Account: TestUser1
 
 ## Troubleshooting Steps
@@ -25,4 +25,5 @@ System performance improved after reducing startup applications and restarting t
 <img width="1024" height="721" alt="task_manager_after_fixes" src="https://github.com/user-attachments/assets/15c41630-7a98-452e-b71d-e6885d721af0" />
 
 ## What I Learned
-This ticket demonstrated how startup programs impact system performance and how Task Manager can be used to identify resource bottlenecks.
+- How startup programs impact system performance.
+- How Task Manager can be used to identify resource bottlenecks.
