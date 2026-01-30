@@ -4,7 +4,7 @@
 User reported loss of internet connectivity and inability to access websites.
 
 ## Environment
-- Device: Windows 11
+- OS: Windows 11
 - User Account: TestUser1
 - Network Type: NAT (Virtualized Environment)
 
@@ -34,4 +34,7 @@ User reported loss of internet connectivity and inability to access websites.
 Network connectivity was restored after re-enabling the network adapter and verifying proper IP configuration.
 
 ## What I Learned
-This ticket reinforced basic network troubleshooting techniques and the importance of verifying adapter and IP configuration.
+- Basic network troubleshooting techniques.
+- How to check network adapter status.
+- How to confirm connectivity using ipconfig and ping commands in Windows PowerShell.
+- The importance of verifying adapter and IP configuration.
